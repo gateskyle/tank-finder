@@ -10,7 +10,7 @@ function Description() {
                     World War II Tank Finder is a website designed to search for tanks of WW2 and display the details of said tanks! Currently only a handfull of tanks are documented, but more will be implemented soon!
                 </Card.Text>
                 <br></br>
-                <Button className='ml-2' size="lg" variant="outline-light">Search For Tanks</Button>
+                <Button className='ml-2' size="lg" variant="outline-light" href="/search">Search For Tanks</Button>
             </Card.Body>
         </Card>
     )
